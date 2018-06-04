@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pe.firewolf.app/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://pe.firewolf.app/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pe.firewolf.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pe.firewolf.app/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://pe.firewolf.app/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pe.firewolf.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pe.firewolf.app/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://pe.firewolf.app/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pe.firewolf.app/tags/"
+                />
+  </url>
+  
+</urlset>

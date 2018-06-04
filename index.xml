@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FireWolf OS X PE 9</title>
+    <link>https://pe.firewolf.app/</link>
+    <description>Recent content on FireWolf OS X PE 9</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pe.firewolf.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
